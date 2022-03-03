@@ -1,0 +1,18 @@
+.btn-container {
+  padding: 0;
+  width: 16rem;
+  border: 4px solid #42C2FF;
+  background-color: transparent;
+  border-radius: 1rem;
+}
+.img-container {
+  margin: 1.5rem 0;
+  width: 100%;
+  height: 10rem;
+  overflow: hidden;
+}
+@media (min-width: 1024px) {
+  .btn-container {
+    width: 30%;
+  }
+}
